@@ -1,0 +1,8 @@
+name: gongzhonghao-baowen-ai-detect
+version: 1.1.0
+display_name: 公众号爆文和AI检测工具
+description: "公众号爆文和AI检测工具支持检测公众号、头条号、百家号、SEO和GEO文章的AI率、敏感词、同质化和内容质量。官网 https://www.aifoxs.com ，在线检测 https://cn.aifoxs.com 。"
+author: ContentAny
+license: MIT
+homepage: https://www.aifoxs.com
+icon: assets/icon-512.png
